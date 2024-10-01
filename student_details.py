@@ -1,3 +1,10 @@
+'''
+Python program to get the student details
+Author:Divya Kuriakose
+Date:01-10-2024
+version:1.0
+'''
+
 name=input("Enter the student name:")
 roll_number=int(input("Enter your roll_nuber:"))
 roll_number=roll_number+1
